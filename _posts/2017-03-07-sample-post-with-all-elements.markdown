@@ -1,56 +1,25 @@
 ---
 layout: post
-title:  "Sample post with all elements"
-description: Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit Sed Do Eiusmod Tempor Incidi
+title:  "Using OpenLayers To add Animation"
+description: 
 img:
 date: 2017-03-07  +0200
 ---
 
-## Headings
+## Add Animation To maps:
 
-Headings by default:
+view.animate() is used to add one or more animations. For a example of adding animation http://openlayers.org/en/latest/examples/animation.html.
 
-## Heading first level
-### Heading second level
-#### Heading third level
+Here if you want to give your cities, just replace london to city you want to add. After replacing london with your city change longitude and latitude in line :
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
+ var london = ol.proj.fromLonLat([-0.12755, 51.507222]);
+Here enter your cities longitude and latitude. Also, change the zoom level according to your requirement.
 
-## Lists
+# OpenStreetMap
+OpenStreetMap is an initiative to create and provide free geographic data, such as street maps, to anyone. 
+The OpenStreetMap Foundation is an international not-for-profit organization supporting, but not controlling, the OpenStreetMap Project. 
+It is dedicated to encouraging the growth, development and distribution of free geospatial data and to providing geospatial data for anyone to use and share. 
 
-Unordered list example:
-* Unordered list item 1
-* Unordered list item 2
-* Unordered list item 3
-* Unordered list item 4
-
-Ordered list example:
-1. Ordered list item 1
-2. Ordered list item 1
-3. Ordered list item 1
-4. Ordered list item 1
-
-{% highlight markdown %}
-* Unordered list item 1
-* Unordered list item 2
-
-1. Order list item 1
-2. Order list item 1
-{% endhighlight %}
-
-
-## Quotes
-
-A quote looks like this:
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna.
-
-{% highlight markdown %}
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna.
-{% endhighlight %}
+# Documentation
+For detailed documentation on this project refer to 
+https://github.com/abhinavhanda21/openstreetmap-documentation/blob/master/abhinav%20report.pdf
