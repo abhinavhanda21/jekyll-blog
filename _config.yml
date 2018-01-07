@@ -1,26 +1,24 @@
-title: Wendell Thomas
+title: Abhinav Handa
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a straightforward and amiable person to work within a group. I believe in, never say die attitude, never run away from responsibilities, utilize every second and believe in building relationships. I have a good grasping ability and can understand the facts and situations very comprehensively. I like to work on open source projects,FOSS rocks!!
 baseurl: "/monday" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Wendell Thomas
-tagline: Full Stack Developer
-about-description: # Add Discription
+name: Abhinav Handa
+tagline: Developer,Explorer and Artist
+about-description: I am a straightforward and amiable person to work within a group. I believe in, never say die attitude, never run away from responsibilities, utilize every second and believe in building relationships. I have a good grasping ability and can understand the facts and situations very comprehensively. I like to work on open source projects,FOSS rocks!! # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+email: abhihanda23@gmail.com # Add your Email address
+phone: +917888735608 # Add your Phone number
+website: abhinavhanda.me # Add your website, do not add http://
+linkedin: https://www.linkedin.com/in/abhinavhanda/
+github: abhinavahanda21 # Add your Github handle
+
 
 # Tracker
 analytics:
