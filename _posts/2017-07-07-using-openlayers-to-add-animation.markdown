@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using OpenLayers To add Animation
-date: 2017-07-07 10:31
+date: 2017-07-08 10:31
 author: abhinavhanda
 comments: true
 categories: [Six Months Training]
