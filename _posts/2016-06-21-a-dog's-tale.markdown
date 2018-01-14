@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hachi: "A Dog's Tale"
-date: 2017-01-21 11:33
+date: 2017-01-19 11:33
 ---
 ## A Dog's Tale
 
