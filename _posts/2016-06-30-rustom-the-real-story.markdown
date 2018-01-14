@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Rustom: The real story that inspired the Akshay Kumar starrer film
+title: "Rustom: The real story"
 date: 2016-06-30 17:54
-author: abhinavreviews
-comments: true
-categories: [Uncategorized]
 ---
+## Rustom: The real story
+
 On April 27, 1959, Naval officer Kawas Manekshaw Nanavati shot his wife’s lover Prem Ahuja with his service revolver. The case received unprecedented media coverage after which Nanavati, accused under section 302, was declared not guilty by the session court. However, the verdict was dismissed by the Bombay High Court and the case was retried as a bench trial. Nanavati was later convicted and sent to life imprisonment under Section 302 of the IPC.
 
 One day, when Nanavati returned home from one of his assignments, he found Sylvia depressed. On being questioned, Sylvia confessed about the affair to her husband. Upset with the confession, Nanavati, as promised earlier, dropped his family at the Metro Cinema for a show, but excused himself. He went to the Naval base, collected his pistol and went straight to Prem Ahuja. At Ahuja’s residence, Nanavati asked him whether he intended to marry Sylvia and accept their children. Prem replied “Will I marry every woman I sleep with?” and Nanavati killed him firing three shots, says court records.
