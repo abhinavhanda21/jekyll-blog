@@ -1,11 +1,11 @@
 ---
 layout: post
-title: DEADPOOL KILLS MARVEL UNIVERSE
-date: 2016-06-20 11:18
-author: abhinavreviews
-comments: true
-categories: [Uncategorized]
+title: "DEADPOOL KILLS MARVEL UNIVERSE"
+date: 2016-06-20 +0200
+
+
 ---
+## DEADPOOL KILLS MARVEL UNIVERSE
 This is a non canon storyline but is really interesting. The story starts with a universe in which X-MEN tries to help deadpool. They bring deadpol to a facility where the doctor promises prof. X that he will help deadpool. But the doctor is actually Psycho-Man who wants to create a army of his own and wants deadpool to be his puppet. He tortures deadpool which ends up in killing the comic voice and serious voice inside of deadpool and all that left is a voice in red box which makes deadpool realize that deadpool that he needs to free everyone,as everyone in this universe is being controlled. After killing Psycho-Man deadpool burns the whole building to ground.
 
 After this he attacks Fantastic Four, starting with Mr fantastic. He somehow makes Mr Fantastic melt and Mr. Fantastic dies in Invisible woman's lap. Then he cuts off Human Torch's head after saying, "you put up more of a fight than i gave you credit for". Invisble woman tries to kill deadpool by blowing his head. But obviously deadpool has healing power and he stabs her from back. Deadpool attacks watcher who is surprised as no one can see him, to which deadpool says "i can see what others can not" and he kills watcher.  After that he kills many superheros and villians,before encountering spiderman. Spiderman says"better psychopaths than you have tried, pal! you should worry less about killing me..and more about the rapidly approaching asphalt" throwing deadpool on ground. Spiderman tries to talk to deadpool grabing him from neck and deadpool says 'you are right. I'm not going to cut you" and he shoots spidey in face and deadpool says "all the psychopaths you were bragging about should have tried? A Gun."
