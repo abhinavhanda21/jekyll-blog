@@ -3,7 +3,7 @@ layout: post
 title: Hachi: "A Dog's Tale"
 date: 2017-01-19 11:33
 ---
-## A Dog's Tale
+## A Dogs Tale
 
 This movie is heartwarming and is based on true story of faithful Akita Inu, Hachiko. Story starts with students giving presentation own My Hero. Ronnie comes up and starts by saying "My Hero is Hachiko my grandfathers dog ",and he continues the story "No one knows from where Hachi came,my grandfather found hachi abandoned on a train station. He tried to find his owner but there was no one around". The officer incharge asks professor to keep the dog until he is informed about a missing dog. Professor seems to be reluctant at first but agrees when officer says "all i can do is take him to pound in morning". So the professor takes the  dog home and tries to hide the dog from his wife but hachi introduced himself to professors wife which scared her and hachi had to spent the night in dog house.
 Professor learns from his Japanese professor friend, that the dog is a Japanese breed called an Akita, and that the Japanese character on the dog's collar tag is the number eight - "hachi". With time as no one agrees to take the dog, cate lets parker keep the dog upon seeing there conversation,as with time they both got attached to each other and there bond became strong. Parker tried his best to teach Hachi how to play with ball but hachi never seemed interested in back the ball. Hachi used to follow professor to train station in amusing ways.Later he learned that professor needs to go to work and he can't follow him. But everyday hachi used to come to train station upon hearing the trains horn. 
