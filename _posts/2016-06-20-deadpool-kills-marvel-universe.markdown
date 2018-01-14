@@ -2,8 +2,6 @@
 layout: post
 title: "DEADPOOL KILLS MARVEL UNIVERSE"
 date: 2016-06-20 +0200
-
-
 ---
 ## DEADPOOL KILLS MARVEL UNIVERSE
 This is a non canon storyline but is really interesting. The story starts with a universe in which X-MEN tries to help deadpool. They bring deadpol to a facility where the doctor promises prof. X that he will help deadpool. But the doctor is actually Psycho-Man who wants to create a army of his own and wants deadpool to be his puppet. He tortures deadpool which ends up in killing the comic voice and serious voice inside of deadpool and all that left is a voice in red box which makes deadpool realize that deadpool that he needs to free everyone,as everyone in this universe is being controlled. After killing Psycho-Man deadpool burns the whole building to ground.
