@@ -1,0 +1,3 @@
+Install it into your path with npm install -g togeojson.
+
+~> togeojson file.kml > file.geojson
