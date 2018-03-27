@@ -10,7 +10,7 @@ blog_theme: dark # Or use dark
 name: Abhinav Handa
 tagline: Developer, Explorer and Artist
 about-description: I am a straightforward and amiable person to work within a group. I believe in, never say die attitude, never run away from responsibilities, utilize every second and believe in building relationships. I have a good grasping ability and can understand the facts and situations very comprehensively. I like to work on open source projects,FOSS rocks!! # Add Discription
-pic: IMG_20180327_211202.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: img1.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: abhihanda23@gmail.com # Add your Email address
