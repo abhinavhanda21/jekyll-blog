@@ -1,6 +1,6 @@
 title: Abhinav Handa
 description: > # this means to ignore newlines until "baseurl:"
-  I am a straightforward and amiable person to work within a group. I believe in, never say die attitude, never run away from responsibilities, utilize every second and believe in building relationships. I have a good grasping ability and can understand the facts and situations very comprehensively. I like to work on open source projects,FOSS rocks!!
+   and I can draw.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -10,7 +10,7 @@ blog_theme: dark # Or use dark
 name: Abhinav Handa
 tagline: Developer, Explorer and Artist
 about-description: I am a straightforward and amiable person to work within a group. I believe in, never say die attitude, never run away from responsibilities, utilize every second and believe in building relationships. I have a good grasping ability and can understand the facts and situations very comprehensively. I like to work on open source projects,FOSS rocks!! # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: img.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: abhihanda23@gmail.com # Add your Email address
