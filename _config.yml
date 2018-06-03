@@ -1,6 +1,6 @@
 title: Abhinav Handa
 description: > # this means to ignore newlines until "baseurl:"
-   I am a web developer and I like to paint.
+   My passion is learning and improving. Coding provides me with the perfect vehicle for that expression of myself. There is always so much more to learn, and so many things to improve upon. I enjoy finding solutions to problems, learning new skills, and improving current ones. I love to build things.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
