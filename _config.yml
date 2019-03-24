@@ -1,6 +1,6 @@
 title: Abhinav Handa
 description: > # this means to ignore newlines until "baseurl:"
-   My passion is learning and improving. Coding provides me with the perfect vehicle for that expression of myself. There is always so much more to learn, and so many things to improve upon. I enjoy finding solutions to problems, learning new skills, and improving current ones. I love to build things.
+   
 baseurl: " / " # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -9,7 +9,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Home
 tagline: Developer, Explorer and Artist
-about-description: My passion is learning and improving. Coding provides me with the perfect vehicle for that expression of myself. There is always so much more to learn, and so many things to improve upon. I enjoy finding solutions to problems, learning new skills, and improving current ones. I love to build things.
+about-description: 
  # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
