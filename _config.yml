@@ -11,7 +11,7 @@ name: Home
 tagline: Developer, Explorer and Artist
 about-description: 
  # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: img1.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: abhihanda23@gmail.com # Add your Email address
