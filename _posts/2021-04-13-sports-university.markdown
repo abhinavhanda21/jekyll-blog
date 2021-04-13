@@ -17,7 +17,7 @@ students with adjusting school.<strong>SG90 Servo Motor</strong> in this tutori
 
 
 <h2 class="rtejustify">Sports role in University<img class="alignnone size-full wp-image-609" src="https://www.tenniscanada.com/wp-content/uploads/2020/02/NGA_5294.jpg" alt="Tennis canada" width="1302" height="621" /></h2>
-<h2><strong>CODE:</strong></h2>
+<h2><strong>Conclusion</strong></h2>
 <p>To sum up all the research, I believe that more and more students should need to be encouraged to join
 sports. As I have discussed all the benefits in brief. If students want to keep themselves fit and away from
 the ailments, then they should surely join. If you have any questions or you want to know something else
