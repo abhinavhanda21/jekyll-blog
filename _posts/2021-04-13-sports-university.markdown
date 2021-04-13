@@ -12,7 +12,7 @@ categories: [Uncategorized]
 
 <h2>RESEARCH</h2>
 
-@article{Shea2014,
+<cite>@article{Shea2014,
   author =        {Hilliard, R. C., Blom, L. C., & Sullivan, M},
   journal =       {The Physical Educator},
   pages =         {1135–1156},
@@ -21,8 +21,8 @@ categories: [Uncategorized]
   year =          {2019},
   doi =           {https://doi.org/10.18666/tpe-2019-v76-i5-8008},
 }
-
-
+</cite>
+<cite>
 @article{Shea2014,
   author =        {aliaferro, L. A., Rienzo, B. A., Miller, M. D., Pigg, R. M., & Dodd, V. J.},
   journal =       {Journal of School Health},
@@ -32,11 +32,10 @@ categories: [Uncategorized]
   year =          {2008},
   doi =           {https://doi.org/10.1111/j.1746-1561.2008.00342.x},
 }
+</cite>
 
 
 
-<p class="rtejustify">  </p>
-<h2 class="rtejustify">Sports role in University<img class="alignnone size-full wp-image-609" src="http://gpsnews.co.za/wp-content/uploads/2020/07/sport.png" alt="Tennis canada" width="1302" height="621" />
 
 
 
