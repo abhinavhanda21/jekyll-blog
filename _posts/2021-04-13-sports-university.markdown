@@ -8,29 +8,59 @@ categories: [Uncategorized]
 ---
 <h2>INTRODUCTION</h2>
 <p class="rtejustify"> <b>Sports</b> has always been a integral part of any academic program. Starting from primary schools to all the way to universities sports go hand in hand with academic part of a studnets life. If you ask why should a computer student invest in any sport for betterment of his future? There is a simple answer a legend once said,"Football doesn't build character, it reveals character." Tenacity, Teamwork and discipline are some building block of life which cannot be learned in classroom. We learn how to handle defeat, how to abide by rules, learning from failure, work with a team and learn the essence of keep going no matter what are a few things we learn from sports acitivity. </p>
-<h2 class="rtejustify">Sports role in University<img class="alignnone size-full wp-image-609" src="http://gpsnews.co.za/wp-content/uploads/2020/07/sport.png" alt="Tennis canada" width="1302" height="621" />
+<h2 class="rtejustify">Sports role in University<img class="alignnone size-full wp-image-609" src="https://www.jbcnschool.edu.in/wp-content/uploads/2017/10/character-building-traits.jpg" alt="Tennis canada" width="1302" height="621" />
 
 <h2>RESEARCH</h2>
 
-<cite>
-  author =        {Hilliard, R. C., Blom, L. C., & Sullivan, M},
-  journal =       {The Physical Educator},
-  pages =         {1135–1156},
-  title =         {{Positive Youth Development and Citizenship Behaviors in Young Athletes: U.S. and Canadian Coaches’ Perspectives.}},
-  volume =        {76},
-  year =          {2019},
-  doi =           {https://doi.org/10.18666/tpe-2019-v76-i5-8008},
 
-</cite>
-<cite>
-author =        {aliaferro, L. A., Rienzo, B. A., Miller, M. D., Pigg, R. M., & Dodd, V. J.},
-  journal =       {Journal of School Health},
-  pages =         {545–553},
-  title =         {{High School Youth and Suicide Risk: Exploring Protection Afforded Through Physical Activity and Sport Participation}},
-  volume =        {78},
-  year =          {2008},
-  doi =           {https://doi.org/10.1111/j.1746-1561.2008.00342.x},
-</cite>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p class="rtejustify"><strong>Author</strong></p>
+</td>
+<td>
+<p class="rtejustify"><strong>Journal</strong></p>
+</td>
+  <td>
+<p class="rtejustify"><strong>Title</strong></p>
+</td>
+    <td>
+<p class="rtejustify"><strong>DOI</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="rtejustify">Hilliard, R. C., Blom, L. C., & Sullivan, M</p>
+</td>
+<td>
+<p class="rtejustify">The Physical Educator</p>
+</td>
+  <td>
+<p class="rtejustify">Positive Youth Development and Citizenship Behaviors in Young Athletes: U.S. and Canadian Coaches’ Perspectives.</p>
+</td>
+      <td>
+<p class="rtejustify">https://doi.org/10.1111/j.1746-1561.2008.00342.x</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="rtejustify">aliaferro, L. A., Rienzo, B. A., Miller, M. D., Pigg, R. M., & Dodd, V. J.</p>
+</td>
+<td>
+<p class="rtejustify">Journal of School Health</p>
+</td>
+  <td>
+<p class="rtejustify">High School Youth and Suicide Risk: Exploring Protection Afforded Through Physical Activity and Sport Participation</p>
+</td>
+    <td>
+<p class="rtejustify">https://doi.org/10.18666/tpe-2019-v76-i5-8008</p>
+</td>
+</tr>
+
+</tbody>
+</table>
+
 
 
 
