@@ -40,7 +40,7 @@ categories: [Uncategorized]
 <p class="rtejustify">Positive Youth Development and Citizenship Behaviors in Young Athletes: U.S. and Canadian Coaches’ Perspectives.</p>
 </td>
       <td>
-<p class="rtejustify">https://doi.org/10.1111/j.1746-1561.2008.00342.x</p>
+        <p class="rtejustify"><a href = https://doi.org/10.1111/j.1746-1561.2008.00342.x>Click Here</a></p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ categories: [Uncategorized]
 <p class="rtejustify">High School Youth and Suicide Risk: Exploring Protection Afforded Through Physical Activity and Sport Participation</p>
 </td>
     <td>
-<p class="rtejustify">https://doi.org/10.18666/tpe-2019-v76-i5-8008</p>
+      <p class="rtejustify"><a href = https://doi.org/10.18666/tpe-2019-v76-i5-8008> Click Here</a></p>
 </td>
 </tr>
 
@@ -63,7 +63,20 @@ categories: [Uncategorized]
 
 
 
-
+<p>We know how feelings run high in sports – regardless of whether watching a game or playing it. Directing
+negative feelings can be intense for kids and a decent mentor will assist them with acknowledging this
+negative pressure. Each game requires some psychological, physical and strategic order. Adhering to
+rules, complying with the mentor, rehearsing restrictions, and so forth are for the most part types of
+control youngsters learn through sports. They additionally build up a feeling of having a place and get a
+chance to make new companions. These correspondence and social abilities help them in their future
+connections and professions. "There's no I in the group". Youngsters discover that the group can't win
+except if they all work together and play to one another's qualities. They additionally figure out how to
+turn out to be less self centered and not let conscience outdo them. Cooperating is a significant
+characteristic in the present life and figuring out how to do so almost immediately assists kids with
+turning out to be better cooperative people in proficient life. How to converse with different colleagues,
+oversee group feelings, take one for the group, and so forth these are some values one can learn from
+sports. They likewise put these abilities to use outside the pitch or court making them great pioneers that
+others need to follow.</p>
 
 
 <h2 class="rtejustify">Sports role in University<img class="alignnone size-full wp-image-609" src="https://www.tenniscanada.com/wp-content/uploads/2020/02/NGA_5294.jpg" alt="Tennis canada" width="1302" height="621" /></h2>
