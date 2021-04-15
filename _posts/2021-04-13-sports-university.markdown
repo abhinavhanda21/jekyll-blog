@@ -40,7 +40,7 @@ categories: [Uncategorized]
 <p class="rtejustify">Positive Youth Development and Citizenship Behaviors in Young Athletes: U.S. and Canadian Coaches’ Perspectives.</p>
 </td>
       <td>
-        <p class="rtejustify"><a href = https://doi.org/10.1111/j.1746-1561.2008.00342.x>Click Here</a></p>
+        <p class="rtejustify"> https://doi.org/10.1111/j.1746-1561.2008.00342.x </p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ categories: [Uncategorized]
 <p class="rtejustify">High School Youth and Suicide Risk: Exploring Protection Afforded Through Physical Activity and Sport Participation</p>
 </td>
     <td>
-      <p class="rtejustify"><a href = https://doi.org/10.18666/tpe-2019-v76-i5-8008> Click Here</a></p>
+      <p class="rtejustify"> https://doi.org/10.18666/tpe-2019-v76-i5-8008 </p>
 </td>
 </tr>
 
